@@ -29,3 +29,6 @@ gal6 = Gallery.create(name: "gallery 6", location: "FL")
   end
 
 #testing code here
+
+
+#more test 
